@@ -10,3 +10,5 @@
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact: I NEED JUNK FOOD!!!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BjChacha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
