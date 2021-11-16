@@ -12,12 +12,7 @@
 - 🔭 Main Class：CS master(ing)
 - 🌱 Main Line：Multitask Evolutionary Optimization
 - 👯 Sub Line：Game dev / Web dev / AIer
-<!--
-- 🤔 Challenge：Unlocked
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+- 🪄 Skill: Python (yep only one)
 - ⚡ Fun fact: I LOVE JUNK FOOD!!!
 
 ---
