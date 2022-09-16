@@ -14,12 +14,12 @@
 
 ### Welcome to my adventure! 👋
 
-- 🔭 Main Class：CS master(ing)
-- 🌱 Research：Multitask Evolutionary Optimization
+- 🔭 Main Class: CS master(ing)
+- 🌱 Research: Multitask Evolutionary Optimization
 - 🪄 Developer: Web dev
-- 👯 Sub Line： Game dev / AIer
+- 👯 Sub Line: Game dev / AIer
 - 🪄 Language: Python / JavaScript / C++
-- ⚡ Fun fact: I'm getting FAT!!!
+- ⚡ Fun fact: Getting FAT!!!
 
 ---
 
