@@ -15,9 +15,10 @@
 ### Welcome to my adventure! 👋
 
 - 🔭 Main Class：CS master(ing)
-- 🌱 Main Line：Multitask Evolutionary Optimization
-- 👯 Sub Line： Web dev / Game dev / AIer
-- 🪄 Skill: Python (yep only one)
+- 🌱 Research：Multitask Evolutionary Optimization
+- 🪄 Developer: Web dev
+- 👯 Sub Line： Game dev / AIer
+- 🪄 Language: Python / JavaScript / C++
 - ⚡ Fun fact: I'm getting FAT!!!
 
 ---
